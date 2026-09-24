@@ -14,7 +14,7 @@
 
 ### 🛠️ Tech Stack
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -29,10 +29,10 @@
 - **Belajar-Ngoding** — Kumpulan catatan dan latihan coding sehari-hari.
 
 ### 📌 Featured Repositories
-[![Belajar-Ngoding](https://github-readme-stats.vercel.app/api/pin/?username=Aeng21&repo=Belajar-Ngoding&theme=dark)](https://github.com/Aeng21/Belajar-Ngoding)
-[![TypeScript-Temp](https://github-readme-stats.vercel.app/api/pin/?username=Aeng21&repo=TypeScript-Temp&theme=dark)](https://github.com/Aeng21/TypeScript-Temp)
-[![Resident-Evil-Web](https://github-readme-stats.vercel.app/api/pin/?username=Aeng21&repo=Resident-Evil-Web&theme=dark)](https://github.com/Aeng21/Resident-Evil-Web)
-[![LMS-Univ](https://github-readme-stats.vercel.app/api/pin/?username=Aeng21&repo=LMS-Univ&theme=dark)](https://github.com/Aeng21/LMS-Univ)
+- 🔗 [Belajar-Ngoding](https://github.com/Aeng21/Belajar-Ngoding)
+- 🔗 [TypeScript-Temp](https://github.com/Aeng21/TypeScript-Temp)
+- 🔗 [Resident-Evil-Web](https://github.com/Aeng21/Resident-Evil-Web)
+- 🔗 [LMS-Univ](https://github.com/Aeng21/LMS-Univ)
 
 ### 📊 GitHub Stats
 ![Amal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aeng21&show_icons=true&theme=dark&hide_border=true)
