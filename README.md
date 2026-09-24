@@ -2,7 +2,7 @@
 
 # Hi there, I'm Ahmad 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4ADE80&center=true&vCenter=true&width=500&lines=TypeScript+%2B+React+Specialist;Also+Comfortable+with+Laravel;Always+Learning+Something+New)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4ADE80&center=true&vCenter=true&width=500&lines=TypeScript+%2B+React+Specialist;Always+Learning+Something+New)
 
 </div>
 
@@ -34,17 +34,11 @@
 - 🔗 [Resident-Evil-Web](https://github.com/Aeng21/Resident-Evil-Web)
 - 🔗 [LMS-Univ](https://github.com/Aeng21/LMS-Univ)
 
-### 📊 GitHub Stats
-![Amal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aeng21&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aeng21&layout=compact&theme=dark&hide_border=true)
-
 ### 🔥 Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aeng21&theme=dark&hide_border=true)
 
 ### 📫 Contact
-<!-- Ganti/tambah link di bawah ini sesuai punya kamu -->
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahmadkamal2117@gmail.com)
 
 <div align="center">
 
